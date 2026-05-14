@@ -1,13 +1,14 @@
-.buttons {
+.yi,
+.er {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-#yi {
-    background-color: #000000;
+.yi {
+    background-color: hsl(0, 0%, 0%);
     color: hsl(0, 100%, 100%);
 }
 
-#er {
-    background-color: rgb(255, 255, 0);
+.er {
+    background-color: hsl(60, 100%, 50%);
 }
